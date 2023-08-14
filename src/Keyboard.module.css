@@ -15,8 +15,8 @@
     background-color: hsl(200,100%,50%);
     color: white; 
 }
-.btn.inactvie{
-    opacity: 0.3;
+.btn.inactive{
+    opacity: .3;
 }
 
 .btn:hover:not(:disabled),
